@@ -1,6 +1,6 @@
 CloudCone 是一个高性价比的云计算平台，专注于提供 VPS（虚拟专用服务器）和专用服务器的托管服务。无论是企业用户还是个人用户，CloudCone 都能满足不同需求，以灵活的定价和多样化的套餐选项而受到欢迎。欲了解更多信息，请访问 [CloudCone 官网](https://app.cloudcone.com/?ref=12062)。
 
-## CloudCone 价格
+## CloudCone 月付价格
 
 CloudCone 提供多种套餐，价格合理，适合不同预算的用户。以下是一些热门套餐及其价格：
 
